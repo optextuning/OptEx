@@ -1,2 +1,2 @@
 # DatasetCartographyForGeneration
-A simple lightweight module for generating difficulty maps for datasets of generative tasks
+A simple lightweight module for generating difficulty cartographs for datasets of generative tasks
