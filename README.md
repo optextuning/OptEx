@@ -1,2 +1,4 @@
-# DatasetCartographyForGeneration
-A simple lightweight module for generating difficulty cartographs for datasets of generative tasks
+# Dataset Cartography For Generation
+
+Addendum library for the paper "Investigating Effect of Exemplar Difficulty on Sample Efficiency
+of Instruction Tuned Models"
